@@ -46,13 +46,6 @@ ENV/
 data/*.csv.gz
 data/*.parquet
 
-# Model files (exclude large trained models)
-models/*.joblib
-models/*.pkl
-models/*.h5
-models/*.pt
-models/*.pth
-
 # Logs
 *.log
 logs/
